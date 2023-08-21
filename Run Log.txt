@@ -1,0 +1,127 @@
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 1
+Expense Categories:
+Rent
+Electricity
+Water
+Breakfast
+Lunch
+Dinner
+Enjoyment
+Misc
+Other
+Enter expense category: Rent
+Enter expense description: August's Rent
+Enter expense amount: 700
+Enter expense date (YYYY-MM-DD): 2023-08-21
+Expense added successfully!
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 1
+Expense Categories:
+Rent
+Electricity
+Water
+Breakfast
+Lunch
+Dinner
+Enjoyment
+Misc
+Other
+Enter expense category: Water
+Enter expense description: Drinkable
+Enter expense amount: 50
+Enter expense date (YYYY-MM-DD): 2023-08-21
+Expense added successfully!
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 1
+Expense Categories:
+Rent
+Electricity
+Water
+Breakfast
+Lunch
+Dinner
+Enjoyment
+Misc
+Other
+Enter expense category: Dinner
+Enter expense description: Chicken
+Enter expense amount: 100
+Enter expense date (YYYY-MM-DD): 2023-08-21
+Expense added successfully!
+Warning: Budget exceeded!
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 2
+Enter a category to view expenses: Rent
+Expenses in Rent category:
+Description: August's Rent Amount: 700.0 Date: 2023-08-21
+Remaining budget: 300.0
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 2
+Enter a category to view expenses: Water
+Expenses in Water category:
+Description: Drinkable Amount: 50.0 Date: 2023-08-21
+Remaining budget: 0.0
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 2
+Enter a category to view expenses: Dinner
+Expenses in Dinner category:
+Description: Chicken Amount: 100.0 Date: 2023-08-21
+Remaining budget: -60.0
+Budget exceeded by: 60.0
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 3
+Export for (W)eek, (M)onth, or (Y)ear: W
+Expenses exported to C:\Users\kriti\Documents\expenses_W.xlsx
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 3
+Export for (W)eek, (M)onth, or (Y)ear: M
+Expenses exported to C:\Users\kriti\Documents\expenses_M.xlsx
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Export Expenses to Excel
+4. Exit
+Enter your choice: 3
+Export for (W)eek, (M)onth, or (Y)ear: Y
+Expenses exported to C:\Users\kriti\Documents\expenses_Y.xlsx
